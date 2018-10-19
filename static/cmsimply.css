@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background: #ccc;
+  background: #666;
   padding: 20px;
 }
 confmenu
@@ -201,6 +201,7 @@ background-color: white;
 width: 195px;
 }
 body {
+  background-image:url(https://elixirherbary.files.wordpress.com/2015/08/rain-455120_1920.jpg);	
   margin-bottom: 120px;
 }
 
