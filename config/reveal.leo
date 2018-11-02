@@ -28,7 +28,7 @@
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
 <v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
@@ -124,9 +124,9 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報40723110:)
+<t tx="leo.20180827201621.10">## 從哪裡跌倒就在哪裡擦藥40723110:)
 
-### 虎科大機械設計工程系
+### 哦哦哦哦哦哦哦ㄟ黑
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
@@ -145,7 +145,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
+<t tx="leo.20180827201621.12"># 投影片快捷鍵 
 
 * 利用箭頭上下前後換頁
 * 按 f 鍵進入全螢幕模式 (full screen)
@@ -154,6 +154,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 * 按 b 或 . 鍵可以切換螢幕黑屏 (black)
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
+         你會了嗎我不會(owo凸)
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
@@ -177,7 +178,8 @@ Inline math equations go in like so: $\omega = d\phi / dt$. Display
 math should get its own line and be put in in double-dollarsigns:
 
 $$I = \int \rho R^{2} dV$$
-</t>
+
+算完了，你開心嗎?</t>
 <t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
